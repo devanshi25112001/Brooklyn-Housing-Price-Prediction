@@ -17,7 +17,7 @@ This project analyzes **real estate purchase data** in **Brooklyn (2016-2020)** 
 - **📐 Feature Engineering**: Created **new predictors, interaction terms, and polynomial features** to improve model performance.  
 - **🚀 Final Dataset**: ~**19,000 observations**  
  ## 📖 Additional Resources  
-- 📂 **Building Classification Codes**: [View the Codebook](https://www.nyc.gov/building-classification-codes)  
+- 📂 **Building Classification Codes**: [View the Codebook](https://www.nyc.gov/assets/finance/jump/hlpbldgcode.html)  
 ---
 
 ## 📈 Model Development & Performance  
