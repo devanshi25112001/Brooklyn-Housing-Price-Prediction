@@ -11,12 +11,13 @@ This project analyzes **real estate purchase data** in **Brooklyn (2016-2020)** 
 ---
 
 ## 📊 Data Processing & Feature Engineering  
-- **📥 Data Import**: Merged **5 CSV files** containing property sales data (2016-2020).  
+- **📥 Data Import**: Merged **5 CSV files** containing property sales data (2016-2020)
 - **🧹 Data Cleaning**: Standardized column names, removed missing values, and ensured **consistency across years**.  
 - **🏠 Data Filtering**: Focused on **single-family residences & condos** (Building class: **A** or **R**).  
 - **📐 Feature Engineering**: Created **new predictors, interaction terms, and polynomial features** to improve model performance.  
 - **🚀 Final Dataset**: ~**19,000 observations**  
-
+ ## 📖 Additional Resources  
+- 📂 **Building Classification Codes**: [View the Codebook](https://www.nyc.gov/building-classification-codes)  
 ---
 
 ## 📈 Model Development & Performance  
