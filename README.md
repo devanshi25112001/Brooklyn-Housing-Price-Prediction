@@ -49,7 +49,7 @@ This project analyzes **real estate purchase data** in **Brooklyn (2016-2020)** 
 ## 📩 Contact & Contributions  
 📧 **Email:** devanshi1@uchicago.edu  
 🔗 **LinkedIn:** [Devanshi Ledwani](https://linkedin.com/in/devanshi-ledwani)  
-💻 **GitHub:** [GitHub Profile](https://github.com/your-github)  
+💻 **GitHub:** [GitHub Profile](https://github.com/devanshi25112001)  
 
 🚀 **Feel free to explore, suggest improvements, or contribute!** 🎯  
 
